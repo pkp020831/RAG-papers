@@ -1,0 +1,10 @@
+# Local paper corpus and generated search databases
+*.pdf
+paper_database*.json
+realtest/
+models/
+
+# Python and macOS-generated files
+__pycache__/
+*.py[cod]
+.DS_Store
