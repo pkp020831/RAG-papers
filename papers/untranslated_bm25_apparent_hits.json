@@ -1,0 +1,907 @@
+{
+  "paper_db_8000": {
+    "hit_count": 50,
+    "hits": [
+      {
+        "question_id": "KQ001",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ002",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ003",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 평형 전파를 이용한 종단간 아날로그 신경망 학습.",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ004",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ005",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ006",
+        "question": "멤리스터 기반 평형 전파의 학습 동역학을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-338359b1a227c69be8f3",
+        "expected_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+        "rank": 2,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ007",
+        "question": "멤리스터 기반 평형 전파의 학습 동역학을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-338359b1a227c69be8f3",
+        "expected_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+        "rank": 2,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ008",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 멤리스터 기반 평형 전파의 학습 동역학.",
+        "expected_paper_id": "PDF-338359b1a227c69be8f3",
+        "expected_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+        "rank": 2,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ009",
+        "question": "멤리스터 기반 평형 전파의 학습 동역학이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-338359b1a227c69be8f3",
+        "expected_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+        "rank": 2,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ010",
+        "question": "멤리스터 기반 평형 전파의 학습 동역학 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-338359b1a227c69be8f3",
+        "expected_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+        "rank": 2,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ011",
+        "question": "상변화 메모리 기술의 원리와 발전을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8dc7d083b059ed94ecc7",
+        "expected_title": "2010   Burr et al.   Phase Change Memory Technology",
+        "rank": 3,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ012",
+        "question": "상변화 메모리 기술의 원리와 발전을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8dc7d083b059ed94ecc7",
+        "expected_title": "2010   Burr et al.   Phase Change Memory Technology",
+        "rank": 3,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ013",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 상변화 메모리 기술의 원리와 발전.",
+        "expected_paper_id": "PDF-8dc7d083b059ed94ecc7",
+        "expected_title": "2010   Burr et al.   Phase Change Memory Technology",
+        "rank": 3,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ014",
+        "question": "상변화 메모리 기술의 원리와 발전이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8dc7d083b059ed94ecc7",
+        "expected_title": "2010   Burr et al.   Phase Change Memory Technology",
+        "rank": 3,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ015",
+        "question": "상변화 메모리 기술의 원리와 발전 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8dc7d083b059ed94ecc7",
+        "expected_title": "2010   Burr et al.   Phase Change Memory Technology",
+        "rank": 3,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ031",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 2,
+        "returned_titles": [
+          "Algorithm for Training Neural Networks on Resistive Device Arrays",
+          "frai-2021-699148 1..14",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ032",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 2,
+        "returned_titles": [
+          "Algorithm for Training Neural Networks on Resistive Device Arrays",
+          "frai-2021-699148 1..14",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ033",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련.",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 2,
+        "returned_titles": [
+          "Algorithm for Training Neural Networks on Resistive Device Arrays",
+          "frai-2021-699148 1..14",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ034",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 2,
+        "returned_titles": [
+          "Algorithm for Training Neural Networks on Resistive Device Arrays",
+          "frai-2021-699148 1..14",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ035",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 2,
+        "returned_titles": [
+          "Algorithm for Training Neural Networks on Resistive Device Arrays",
+          "frai-2021-699148 1..14",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ036",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+          "AWAD2025"
+        ]
+      },
+      {
+        "question_id": "KQ037",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+          "AWAD2025"
+        ]
+      },
+      {
+        "question_id": "KQ038",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화.",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+          "AWAD2025"
+        ]
+      },
+      {
+        "question_id": "KQ039",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+          "AWAD2025"
+        ]
+      },
+      {
+        "question_id": "KQ040",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+          "AWAD2025"
+        ]
+      },
+      {
+        "question_id": "KQ056",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks"
+        ]
+      },
+      {
+        "question_id": "KQ057",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks"
+        ]
+      },
+      {
+        "question_id": "KQ058",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 멤리스터 크로스바를 이용한 activity-difference 신경망 학습.",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks"
+        ]
+      },
+      {
+        "question_id": "KQ059",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks"
+        ]
+      },
+      {
+        "question_id": "KQ060",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks"
+        ]
+      },
+      {
+        "question_id": "KQ071",
+        "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-b5ea3bf87dae48be5528",
+        "expected_title": "AWAD2025",
+        "rank": 1,
+        "returned_titles": [
+          "AWAD2025",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator"
+        ]
+      },
+      {
+        "question_id": "KQ072",
+        "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-b5ea3bf87dae48be5528",
+        "expected_title": "AWAD2025",
+        "rank": 1,
+        "returned_titles": [
+          "AWAD2025",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator"
+        ]
+      },
+      {
+        "question_id": "KQ073",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습.",
+        "expected_paper_id": "PDF-b5ea3bf87dae48be5528",
+        "expected_title": "AWAD2025",
+        "rank": 1,
+        "returned_titles": [
+          "AWAD2025",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator"
+        ]
+      },
+      {
+        "question_id": "KQ074",
+        "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-b5ea3bf87dae48be5528",
+        "expected_title": "AWAD2025",
+        "rank": 1,
+        "returned_titles": [
+          "AWAD2025",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator"
+        ]
+      },
+      {
+        "question_id": "KQ075",
+        "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-b5ea3bf87dae48be5528",
+        "expected_title": "AWAD2025",
+        "rank": 1,
+        "returned_titles": [
+          "AWAD2025",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator"
+        ]
+      },
+      {
+        "question_id": "KQ081",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ082",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ083",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법.",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ084",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ085",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "2010   Burr et al.   Phase Change Memory Technology"
+        ]
+      },
+      {
+        "question_id": "KQ086",
+        "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-973c92891a895d842b51",
+        "expected_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+        "rank": 2,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ087",
+        "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-973c92891a895d842b51",
+        "expected_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+        "rank": 2,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ088",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적.",
+        "expected_paper_id": "PDF-973c92891a895d842b51",
+        "expected_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+        "rank": 2,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ089",
+        "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-973c92891a895d842b51",
+        "expected_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+        "rank": 2,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ090",
+        "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-973c92891a895d842b51",
+        "expected_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+        "rank": 2,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ096",
+        "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-f7f8678364e97bead725",
+        "expected_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+        "rank": 3,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ097",
+        "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-f7f8678364e97bead725",
+        "expected_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+        "rank": 3,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ098",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적.",
+        "expected_paper_id": "PDF-f7f8678364e97bead725",
+        "expected_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+        "rank": 3,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ099",
+        "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-f7f8678364e97bead725",
+        "expected_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+        "rank": 3,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      },
+      {
+        "question_id": "KQ100",
+        "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-f7f8678364e97bead725",
+        "expected_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+        "rank": 3,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+          "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias"
+        ]
+      }
+    ]
+  },
+  "chunk_db_8002": {
+    "hit_count": 25,
+    "hits": [
+      {
+        "question_id": "KQ001",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation"
+        ]
+      },
+      {
+        "question_id": "KQ002",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation"
+        ]
+      },
+      {
+        "question_id": "KQ003",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 평형 전파를 이용한 종단간 아날로그 신경망 학습.",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation"
+        ]
+      },
+      {
+        "question_id": "KQ004",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation"
+        ]
+      },
+      {
+        "question_id": "KQ005",
+        "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-8efda0da0829abdc991f",
+        "expected_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+        "rank": 1,
+        "returned_titles": [
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+          "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation"
+        ]
+      },
+      {
+        "question_id": "KQ031",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 1,
+        "returned_titles": [
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14"
+        ]
+      },
+      {
+        "question_id": "KQ032",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 1,
+        "returned_titles": [
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14"
+        ]
+      },
+      {
+        "question_id": "KQ033",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련.",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 1,
+        "returned_titles": [
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14"
+        ]
+      },
+      {
+        "question_id": "KQ034",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 1,
+        "returned_titles": [
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14"
+        ]
+      },
+      {
+        "question_id": "KQ035",
+        "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6dc0918e3b10a30e615e",
+        "expected_title": "frai-2021-699148 1..14",
+        "rank": 1,
+        "returned_titles": [
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14",
+          "frai-2021-699148 1..14"
+        ]
+      },
+      {
+        "question_id": "KQ036",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ037",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ038",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화.",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ039",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ040",
+        "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-67fedc9676fdc5930880",
+        "expected_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+        "rank": 1,
+        "returned_titles": [
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+          "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm"
+        ]
+      },
+      {
+        "question_id": "KQ056",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars"
+        ]
+      },
+      {
+        "question_id": "KQ057",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars"
+        ]
+      },
+      {
+        "question_id": "KQ058",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 멤리스터 크로스바를 이용한 activity-difference 신경망 학습.",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars"
+        ]
+      },
+      {
+        "question_id": "KQ059",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars"
+        ]
+      },
+      {
+        "question_id": "KQ060",
+        "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-04196c898fbcff72a7ae",
+        "expected_title": "Activity-difference training of deep neural networks using memristor crossbars",
+        "rank": 1,
+        "returned_titles": [
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars",
+          "Activity-difference training of deep neural networks using memristor crossbars"
+        ]
+      },
+      {
+        "question_id": "KQ081",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 다루는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors"
+        ]
+      },
+      {
+        "question_id": "KQ082",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors"
+        ]
+      },
+      {
+        "question_id": "KQ083",
+        "question": "다음 주제에 가장 가까운 논문을 고르시오: 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법.",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors"
+        ]
+      },
+      {
+        "question_id": "KQ084",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법이 핵심 기여인 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors"
+        ]
+      },
+      {
+        "question_id": "KQ085",
+        "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+        "expected_paper_id": "PDF-6a27004aa18a5446870e",
+        "expected_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+        "rank": 1,
+        "returned_titles": [
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+          "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors"
+        ]
+      }
+    ]
+  }
+}

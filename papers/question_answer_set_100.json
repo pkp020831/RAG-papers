@@ -1,0 +1,807 @@
+{
+  "dataset_name": "balanced_paper_question_answer_set",
+  "item_count": 100,
+  "papers_per_answer": 5,
+  "items": [
+    {
+      "question_id": "Q001",
+      "question": "Which paper is specifically about end-to-end analog neural-network training with equilibrium propagation?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation', which directly covers end-to-end analog neural-network training with equilibrium propagation.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q002",
+      "question": "For a study of end-to-end analog neural-network training with equilibrium propagation, which single paper is the closest match?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation', which directly covers end-to-end analog neural-network training with equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q003",
+      "question": "Which paper should be selected when the research question concerns end-to-end analog neural-network training with equilibrium propagation?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation', which directly covers end-to-end analog neural-network training with equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q004",
+      "question": "Identify the paper whose central contribution is end-to-end analog neural-network training with equilibrium propagation.",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation', which directly covers end-to-end analog neural-network training with equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q005",
+      "question": "Which paper best matches this technical focus: end-to-end analog neural-network training with equilibrium propagation?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation', which directly covers end-to-end analog neural-network training with equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q006",
+      "question": "Which paper is specifically about learning dynamics of memristor-based equilibrium propagation?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as 'Learning Dynamics in Memristor-Based Equilibrium Propagation', which directly covers learning dynamics of memristor-based equilibrium propagation.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q007",
+      "question": "For a study of learning dynamics of memristor-based equilibrium propagation, which single paper is the closest match?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as 'Learning Dynamics in Memristor-Based Equilibrium Propagation', which directly covers learning dynamics of memristor-based equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q008",
+      "question": "Which paper should be selected when the research question concerns learning dynamics of memristor-based equilibrium propagation?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as 'Learning Dynamics in Memristor-Based Equilibrium Propagation', which directly covers learning dynamics of memristor-based equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q009",
+      "question": "Identify the paper whose central contribution is learning dynamics of memristor-based equilibrium propagation.",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as 'Learning Dynamics in Memristor-Based Equilibrium Propagation', which directly covers learning dynamics of memristor-based equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q010",
+      "question": "Which paper best matches this technical focus: learning dynamics of memristor-based equilibrium propagation?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "The title explicitly identifies the paper as 'Learning Dynamics in Memristor-Based Equilibrium Propagation', which directly covers learning dynamics of memristor-based equilibrium propagation.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q011",
+      "question": "Which paper is specifically about the foundations and technology of phase-change memory?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "The title explicitly identifies the paper as '2010   Burr et al.   Phase Change Memory Technology', which directly covers the foundations and technology of phase-change memory.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q012",
+      "question": "For a study of the foundations and technology of phase-change memory, which single paper is the closest match?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "The title explicitly identifies the paper as '2010   Burr et al.   Phase Change Memory Technology', which directly covers the foundations and technology of phase-change memory.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q013",
+      "question": "Which paper should be selected when the research question concerns the foundations and technology of phase-change memory?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "The title explicitly identifies the paper as '2010   Burr et al.   Phase Change Memory Technology', which directly covers the foundations and technology of phase-change memory.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q014",
+      "question": "Identify the paper whose central contribution is the foundations and technology of phase-change memory.",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "The title explicitly identifies the paper as '2010   Burr et al.   Phase Change Memory Technology', which directly covers the foundations and technology of phase-change memory.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q015",
+      "question": "Which paper best matches this technical focus: the foundations and technology of phase-change memory?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "The title explicitly identifies the paper as '2010   Burr et al.   Phase Change Memory Technology', which directly covers the foundations and technology of phase-change memory.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q016",
+      "question": "Which paper is specifically about recent progress in phase-change memory technology?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "The title explicitly identifies the paper as 'untitled', which directly covers recent progress in phase-change memory technology.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q017",
+      "question": "For a study of recent progress in phase-change memory technology, which single paper is the closest match?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "The title explicitly identifies the paper as 'untitled', which directly covers recent progress in phase-change memory technology.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q018",
+      "question": "Which paper should be selected when the research question concerns recent progress in phase-change memory technology?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "The title explicitly identifies the paper as 'untitled', which directly covers recent progress in phase-change memory technology.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q019",
+      "question": "Identify the paper whose central contribution is recent progress in phase-change memory technology.",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "The title explicitly identifies the paper as 'untitled', which directly covers recent progress in phase-change memory technology.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q020",
+      "question": "Which paper best matches this technical focus: recent progress in phase-change memory technology?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "The title explicitly identifies the paper as 'untitled', which directly covers recent progress in phase-change memory technology.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q021",
+      "question": "Which paper is specifically about zero-shifting for deep-neural-network training on resistive cross-point arrays?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "The title explicitly identifies the paper as '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown', which directly covers zero-shifting for deep-neural-network training on resistive cross-point arrays.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q022",
+      "question": "For a study of zero-shifting for deep-neural-network training on resistive cross-point arrays, which single paper is the closest match?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "The title explicitly identifies the paper as '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown', which directly covers zero-shifting for deep-neural-network training on resistive cross-point arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q023",
+      "question": "Which paper should be selected when the research question concerns zero-shifting for deep-neural-network training on resistive cross-point arrays?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "The title explicitly identifies the paper as '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown', which directly covers zero-shifting for deep-neural-network training on resistive cross-point arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q024",
+      "question": "Identify the paper whose central contribution is zero-shifting for deep-neural-network training on resistive cross-point arrays.",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "The title explicitly identifies the paper as '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown', which directly covers zero-shifting for deep-neural-network training on resistive cross-point arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q025",
+      "question": "Which paper best matches this technical focus: zero-shifting for deep-neural-network training on resistive cross-point arrays?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "The title explicitly identifies the paper as '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown', which directly covers zero-shifting for deep-neural-network training on resistive cross-point arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q026",
+      "question": "Which paper is specifically about training algorithms for resistive device arrays?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "The title explicitly identifies the paper as 'Algorithm for Training Neural Networks on Resistive Device Arrays', which directly covers training algorithms for resistive device arrays.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q027",
+      "question": "For a study of training algorithms for resistive device arrays, which single paper is the closest match?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "The title explicitly identifies the paper as 'Algorithm for Training Neural Networks on Resistive Device Arrays', which directly covers training algorithms for resistive device arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q028",
+      "question": "Which paper should be selected when the research question concerns training algorithms for resistive device arrays?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "The title explicitly identifies the paper as 'Algorithm for Training Neural Networks on Resistive Device Arrays', which directly covers training algorithms for resistive device arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q029",
+      "question": "Identify the paper whose central contribution is training algorithms for resistive device arrays.",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "The title explicitly identifies the paper as 'Algorithm for Training Neural Networks on Resistive Device Arrays', which directly covers training algorithms for resistive device arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q030",
+      "question": "Which paper best matches this technical focus: training algorithms for resistive device arrays?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "The title explicitly identifies the paper as 'Algorithm for Training Neural Networks on Resistive Device Arrays', which directly covers training algorithms for resistive device arrays.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q031",
+      "question": "Which paper is specifically about training neural networks on noisy analog hardware with Tiki-Taka?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "The title explicitly identifies the paper as 'frai-2021-699148 1..14', which directly covers training neural networks on noisy analog hardware with Tiki-Taka.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q032",
+      "question": "For a study of training neural networks on noisy analog hardware with Tiki-Taka, which single paper is the closest match?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "The title explicitly identifies the paper as 'frai-2021-699148 1..14', which directly covers training neural networks on noisy analog hardware with Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q033",
+      "question": "Which paper should be selected when the research question concerns training neural networks on noisy analog hardware with Tiki-Taka?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "The title explicitly identifies the paper as 'frai-2021-699148 1..14', which directly covers training neural networks on noisy analog hardware with Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q034",
+      "question": "Identify the paper whose central contribution is training neural networks on noisy analog hardware with Tiki-Taka.",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "The title explicitly identifies the paper as 'frai-2021-699148 1..14', which directly covers training neural networks on noisy analog hardware with Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q035",
+      "question": "Which paper best matches this technical focus: training neural networks on noisy analog hardware with Tiki-Taka?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "The title explicitly identifies the paper as 'frai-2021-699148 1..14', which directly covers training neural networks on noisy analog hardware with Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q036",
+      "question": "Which paper is specifically about co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "The title explicitly identifies the paper as 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm', which directly covers co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q037",
+      "question": "For a study of co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka, which single paper is the closest match?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "The title explicitly identifies the paper as 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm', which directly covers co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q038",
+      "question": "Which paper should be selected when the research question concerns co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "The title explicitly identifies the paper as 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm', which directly covers co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q039",
+      "question": "Identify the paper whose central contribution is co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka.",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "The title explicitly identifies the paper as 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm', which directly covers co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q040",
+      "question": "Which paper best matches this technical focus: co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "The title explicitly identifies the paper as 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm', which directly covers co-optimizing IGZO TFT capacitor synapses with retention-centric Tiki-Taka.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q041",
+      "question": "Which paper is specifically about disturbance-aware mitigation during massively parallel analog on-chip training?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "The title explicitly identifies the paper as 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator', which directly covers disturbance-aware mitigation during massively parallel analog on-chip training.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q042",
+      "question": "For a study of disturbance-aware mitigation during massively parallel analog on-chip training, which single paper is the closest match?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "The title explicitly identifies the paper as 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator', which directly covers disturbance-aware mitigation during massively parallel analog on-chip training.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q043",
+      "question": "Which paper should be selected when the research question concerns disturbance-aware mitigation during massively parallel analog on-chip training?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "The title explicitly identifies the paper as 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator', which directly covers disturbance-aware mitigation during massively parallel analog on-chip training.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q044",
+      "question": "Identify the paper whose central contribution is disturbance-aware mitigation during massively parallel analog on-chip training.",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "The title explicitly identifies the paper as 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator', which directly covers disturbance-aware mitigation during massively parallel analog on-chip training.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q045",
+      "question": "Which paper best matches this technical focus: disturbance-aware mitigation during massively parallel analog on-chip training?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "The title explicitly identifies the paper as 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator', which directly covers disturbance-aware mitigation during massively parallel analog on-chip training.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q046",
+      "question": "Which paper is specifically about defect-tolerant memristor crossbar circuits for local learning?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks', which directly covers defect-tolerant memristor crossbar circuits for local learning.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q047",
+      "question": "For a study of defect-tolerant memristor crossbar circuits for local learning, which single paper is the closest match?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks', which directly covers defect-tolerant memristor crossbar circuits for local learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q048",
+      "question": "Which paper should be selected when the research question concerns defect-tolerant memristor crossbar circuits for local learning?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks', which directly covers defect-tolerant memristor crossbar circuits for local learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q049",
+      "question": "Identify the paper whose central contribution is defect-tolerant memristor crossbar circuits for local learning.",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks', which directly covers defect-tolerant memristor crossbar circuits for local learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q050",
+      "question": "Which paper best matches this technical focus: defect-tolerant memristor crossbar circuits for local learning?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks', which directly covers defect-tolerant memristor crossbar circuits for local learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q051",
+      "question": "Which paper is specifically about low-rank equilibrium propagation for online incremental analog learning?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "The title explicitly identifies the paper as 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators', which directly covers low-rank equilibrium propagation for online incremental analog learning.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q052",
+      "question": "For a study of low-rank equilibrium propagation for online incremental analog learning, which single paper is the closest match?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "The title explicitly identifies the paper as 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators', which directly covers low-rank equilibrium propagation for online incremental analog learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q053",
+      "question": "Which paper should be selected when the research question concerns low-rank equilibrium propagation for online incremental analog learning?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "The title explicitly identifies the paper as 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators', which directly covers low-rank equilibrium propagation for online incremental analog learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q054",
+      "question": "Identify the paper whose central contribution is low-rank equilibrium propagation for online incremental analog learning.",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "The title explicitly identifies the paper as 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators', which directly covers low-rank equilibrium propagation for online incremental analog learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q055",
+      "question": "Which paper best matches this technical focus: low-rank equilibrium propagation for online incremental analog learning?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "The title explicitly identifies the paper as 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators', which directly covers low-rank equilibrium propagation for online incremental analog learning.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q056",
+      "question": "Which paper is specifically about activity-difference training using memristor crossbars?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "The title explicitly identifies the paper as 'Activity-difference training of deep neural networks using memristor crossbars', which directly covers activity-difference training using memristor crossbars.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q057",
+      "question": "For a study of activity-difference training using memristor crossbars, which single paper is the closest match?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "The title explicitly identifies the paper as 'Activity-difference training of deep neural networks using memristor crossbars', which directly covers activity-difference training using memristor crossbars.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q058",
+      "question": "Which paper should be selected when the research question concerns activity-difference training using memristor crossbars?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "The title explicitly identifies the paper as 'Activity-difference training of deep neural networks using memristor crossbars', which directly covers activity-difference training using memristor crossbars.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q059",
+      "question": "Identify the paper whose central contribution is activity-difference training using memristor crossbars.",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "The title explicitly identifies the paper as 'Activity-difference training of deep neural networks using memristor crossbars', which directly covers activity-difference training using memristor crossbars.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q060",
+      "question": "Which paper best matches this technical focus: activity-difference training using memristor crossbars?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "The title explicitly identifies the paper as 'Activity-difference training of deep neural networks using memristor crossbars', which directly covers activity-difference training using memristor crossbars.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q061",
+      "question": "Which paper is specifically about emergent machine learning in a nonlinear analog network without a processor?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "The title explicitly identifies the paper as 'Machine learning without a processor: Emergent learning in a nonlinear analog network', which directly covers emergent machine learning in a nonlinear analog network without a processor.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q062",
+      "question": "For a study of emergent machine learning in a nonlinear analog network without a processor, which single paper is the closest match?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "The title explicitly identifies the paper as 'Machine learning without a processor: Emergent learning in a nonlinear analog network', which directly covers emergent machine learning in a nonlinear analog network without a processor.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q063",
+      "question": "Which paper should be selected when the research question concerns emergent machine learning in a nonlinear analog network without a processor?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "The title explicitly identifies the paper as 'Machine learning without a processor: Emergent learning in a nonlinear analog network', which directly covers emergent machine learning in a nonlinear analog network without a processor.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q064",
+      "question": "Identify the paper whose central contribution is emergent machine learning in a nonlinear analog network without a processor.",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "The title explicitly identifies the paper as 'Machine learning without a processor: Emergent learning in a nonlinear analog network', which directly covers emergent machine learning in a nonlinear analog network without a processor.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q065",
+      "question": "Which paper best matches this technical focus: emergent machine learning in a nonlinear analog network without a processor?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "The title explicitly identifies the paper as 'Machine learning without a processor: Emergent learning in a nonlinear analog network', which directly covers emergent machine learning in a nonlinear analog network without a processor.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q066",
+      "question": "Which paper is specifically about universal approximation by nonlinear resistive networks?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Universal approximation theorem for nonlinear resistive networks', which directly covers universal approximation by nonlinear resistive networks.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q067",
+      "question": "For a study of universal approximation by nonlinear resistive networks, which single paper is the closest match?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Universal approximation theorem for nonlinear resistive networks', which directly covers universal approximation by nonlinear resistive networks.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q068",
+      "question": "Which paper should be selected when the research question concerns universal approximation by nonlinear resistive networks?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Universal approximation theorem for nonlinear resistive networks', which directly covers universal approximation by nonlinear resistive networks.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q069",
+      "question": "Identify the paper whose central contribution is universal approximation by nonlinear resistive networks.",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Universal approximation theorem for nonlinear resistive networks', which directly covers universal approximation by nonlinear resistive networks.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q070",
+      "question": "Which paper best matches this technical focus: universal approximation by nonlinear resistive networks?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "The title explicitly identifies the paper as 'Universal approximation theorem for nonlinear resistive networks', which directly covers universal approximation by nonlinear resistive networks.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q071",
+      "question": "Which paper is specifically about an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "The title explicitly identifies the paper as 'AWAD2025', which directly covers an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q072",
+      "question": "For a study of an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells, which single paper is the closest match?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "The title explicitly identifies the paper as 'AWAD2025', which directly covers an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q073",
+      "question": "Which paper should be selected when the research question concerns an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "The title explicitly identifies the paper as 'AWAD2025', which directly covers an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q074",
+      "question": "Identify the paper whose central contribution is an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells.",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "The title explicitly identifies the paper as 'AWAD2025', which directly covers an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q075",
+      "question": "Which paper best matches this technical focus: an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "The title explicitly identifies the paper as 'AWAD2025', which directly covers an energy-efficient on-chip training system using 1.5-bit ADCs and IGZO TFT update cells.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q076",
+      "question": "Which paper is specifically about a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "The title explicitly identifies the paper as '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer', which directly covers a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q077",
+      "question": "For a study of a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell, which single paper is the closest match?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "The title explicitly identifies the paper as '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer', which directly covers a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q078",
+      "question": "Which paper should be selected when the research question concerns a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "The title explicitly identifies the paper as '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer', which directly covers a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q079",
+      "question": "Identify the paper whose central contribution is a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell.",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "The title explicitly identifies the paper as '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer', which directly covers a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q080",
+      "question": "Which paper best matches this technical focus: a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "The title explicitly identifies the paper as '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer', which directly covers a metallic surfactant layer that stabilizes resistance drift in a phase-change memory cell.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q081",
+      "question": "Which paper is specifically about scaling SRAM cells through monolithic 3D integration of 2D FETs?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors', which directly covers scaling SRAM cells through monolithic 3D integration of 2D FETs.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q082",
+      "question": "For a study of scaling SRAM cells through monolithic 3D integration of 2D FETs, which single paper is the closest match?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors', which directly covers scaling SRAM cells through monolithic 3D integration of 2D FETs.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q083",
+      "question": "Which paper should be selected when the research question concerns scaling SRAM cells through monolithic 3D integration of 2D FETs?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors', which directly covers scaling SRAM cells through monolithic 3D integration of 2D FETs.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q084",
+      "question": "Identify the paper whose central contribution is scaling SRAM cells through monolithic 3D integration of 2D FETs.",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors', which directly covers scaling SRAM cells through monolithic 3D integration of 2D FETs.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q085",
+      "question": "Which paper best matches this technical focus: scaling SRAM cells through monolithic 3D integration of 2D FETs?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors', which directly covers scaling SRAM cells through monolithic 3D integration of 2D FETs.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q086",
+      "question": "Which paper is specifically about monolithic 3D integration of complementary 2D field-effect transistors?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors', which directly covers monolithic 3D integration of complementary 2D field-effect transistors.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q087",
+      "question": "For a study of monolithic 3D integration of complementary 2D field-effect transistors, which single paper is the closest match?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors', which directly covers monolithic 3D integration of complementary 2D field-effect transistors.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q088",
+      "question": "Which paper should be selected when the research question concerns monolithic 3D integration of complementary 2D field-effect transistors?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors', which directly covers monolithic 3D integration of complementary 2D field-effect transistors.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q089",
+      "question": "Identify the paper whose central contribution is monolithic 3D integration of complementary 2D field-effect transistors.",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors', which directly covers monolithic 3D integration of complementary 2D field-effect transistors.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q090",
+      "question": "Which paper best matches this technical focus: monolithic 3D integration of complementary 2D field-effect transistors?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors', which directly covers monolithic 3D integration of complementary 2D field-effect transistors.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q091",
+      "question": "Which paper is specifically about 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "The title explicitly identifies the paper as 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy', which directly covers 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q092",
+      "question": "For a study of 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates, which single paper is the closest match?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "The title explicitly identifies the paper as 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy', which directly covers 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q093",
+      "question": "Which paper should be selected when the research question concerns 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "The title explicitly identifies the paper as 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy', which directly covers 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q094",
+      "question": "Identify the paper whose central contribution is 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates.",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "The title explicitly identifies the paper as 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy', which directly covers 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q095",
+      "question": "Which paper best matches this technical focus: 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "The title explicitly identifies the paper as 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy', which directly covers 2D-material transistors with hexagonal-boron-nitride dielectrics and high-cohesive-energy metal gates.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q096",
+      "question": "Which paper is specifically about high-density-via monolithic and heterogeneous 3D integration of 2D materials?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias', which directly covers high-density-via monolithic and heterogeneous 3D integration of 2D materials.",
+      "question_type": "exact_title"
+    },
+    {
+      "question_id": "Q097",
+      "question": "For a study of high-density-via monolithic and heterogeneous 3D integration of 2D materials, which single paper is the closest match?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias', which directly covers high-density-via monolithic and heterogeneous 3D integration of 2D materials.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q098",
+      "question": "Which paper should be selected when the research question concerns high-density-via monolithic and heterogeneous 3D integration of 2D materials?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias', which directly covers high-density-via monolithic and heterogeneous 3D integration of 2D materials.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q099",
+      "question": "Identify the paper whose central contribution is high-density-via monolithic and heterogeneous 3D integration of 2D materials.",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias', which directly covers high-density-via monolithic and heterogeneous 3D integration of 2D materials.",
+      "question_type": "topic_match"
+    },
+    {
+      "question_id": "Q100",
+      "question": "Which paper best matches this technical focus: high-density-via monolithic and heterogeneous 3D integration of 2D materials?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "The title explicitly identifies the paper as 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias', which directly covers high-density-via monolithic and heterogeneous 3D integration of 2D materials.",
+      "question_type": "topic_match"
+    }
+  ]
+}

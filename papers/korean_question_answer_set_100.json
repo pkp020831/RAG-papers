@@ -1,0 +1,807 @@
+{
+  "dataset_name": "balanced_korean_paper_question_answer_set",
+  "item_count": 100,
+  "papers_per_answer": 5,
+  "items": [
+    {
+      "question_id": "KQ001",
+      "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "논문 제목 '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation'이(가) 평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ002",
+      "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "논문 제목 '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation'이(가) 평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ003",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 평형 전파를 이용한 종단간 아날로그 신경망 학습.",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "논문 제목 '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation'이(가) 평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ004",
+      "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "논문 제목 '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation'이(가) 평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ005",
+      "question": "평형 전파를 이용한 종단간 아날로그 신경망 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8efda0da0829abdc991f",
+      "answer_title": "1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation",
+      "answer_evidence": "논문 제목 '1. 2020   Unknown   Kendall et al.   Training End to End Analog Neural Networks with Equilibrium Propagation'이(가) 평형 전파를 이용한 종단간 아날로그 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ006",
+      "question": "멤리스터 기반 평형 전파의 학습 동역학을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "논문 제목 'Learning Dynamics in Memristor-Based Equilibrium Propagation'이(가) 멤리스터 기반 평형 전파의 학습 동역학을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ007",
+      "question": "멤리스터 기반 평형 전파의 학습 동역학을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "논문 제목 'Learning Dynamics in Memristor-Based Equilibrium Propagation'이(가) 멤리스터 기반 평형 전파의 학습 동역학을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ008",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 멤리스터 기반 평형 전파의 학습 동역학.",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "논문 제목 'Learning Dynamics in Memristor-Based Equilibrium Propagation'이(가) 멤리스터 기반 평형 전파의 학습 동역학을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ009",
+      "question": "멤리스터 기반 평형 전파의 학습 동역학이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "논문 제목 'Learning Dynamics in Memristor-Based Equilibrium Propagation'이(가) 멤리스터 기반 평형 전파의 학습 동역학을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ010",
+      "question": "멤리스터 기반 평형 전파의 학습 동역학 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-338359b1a227c69be8f3",
+      "answer_title": "Learning Dynamics in Memristor-Based Equilibrium Propagation",
+      "answer_evidence": "논문 제목 'Learning Dynamics in Memristor-Based Equilibrium Propagation'이(가) 멤리스터 기반 평형 전파의 학습 동역학을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ011",
+      "question": "상변화 메모리 기술의 원리와 발전을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "논문 제목 '2010   Burr et al.   Phase Change Memory Technology'이(가) 상변화 메모리 기술의 원리와 발전을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ012",
+      "question": "상변화 메모리 기술의 원리와 발전을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "논문 제목 '2010   Burr et al.   Phase Change Memory Technology'이(가) 상변화 메모리 기술의 원리와 발전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ013",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 상변화 메모리 기술의 원리와 발전.",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "논문 제목 '2010   Burr et al.   Phase Change Memory Technology'이(가) 상변화 메모리 기술의 원리와 발전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ014",
+      "question": "상변화 메모리 기술의 원리와 발전이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "논문 제목 '2010   Burr et al.   Phase Change Memory Technology'이(가) 상변화 메모리 기술의 원리와 발전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ015",
+      "question": "상변화 메모리 기술의 원리와 발전 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-8dc7d083b059ed94ecc7",
+      "answer_title": "2010   Burr et al.   Phase Change Memory Technology",
+      "answer_evidence": "논문 제목 '2010   Burr et al.   Phase Change Memory Technology'이(가) 상변화 메모리 기술의 원리와 발전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ016",
+      "question": "상변화 메모리 기술의 최근 진전을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "논문 제목 'untitled'이(가) 상변화 메모리 기술의 최근 진전을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ017",
+      "question": "상변화 메모리 기술의 최근 진전을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "논문 제목 'untitled'이(가) 상변화 메모리 기술의 최근 진전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ018",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 상변화 메모리 기술의 최근 진전.",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "논문 제목 'untitled'이(가) 상변화 메모리 기술의 최근 진전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ019",
+      "question": "상변화 메모리 기술의 최근 진전이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "논문 제목 'untitled'이(가) 상변화 메모리 기술의 최근 진전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ020",
+      "question": "상변화 메모리 기술의 최근 진전 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-abf0445af927f230f140",
+      "answer_title": "untitled",
+      "answer_evidence": "논문 제목 'untitled'이(가) 상변화 메모리 기술의 최근 진전을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ021",
+      "question": "저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "논문 제목 '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown'이(가) 저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ022",
+      "question": "저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "논문 제목 '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown'이(가) 저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ023",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅.",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "논문 제목 '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown'이(가) 저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ024",
+      "question": "저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "논문 제목 '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown'이(가) 저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ025",
+      "question": "저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-87ee4311ba61cd484394",
+      "answer_title": "2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown",
+      "answer_evidence": "논문 제목 '2019   Kim et al.   Zero shifting Technique for Deep Neural Network Training on Resistive Cross point Arrays   Unknown'이(가) 저항성 크로스포인트 배열에서 심층신경망 학습을 위한 제로 시프팅을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ026",
+      "question": "저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "논문 제목 'Algorithm for Training Neural Networks on Resistive Device Arrays'이(가) 저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ027",
+      "question": "저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "논문 제목 'Algorithm for Training Neural Networks on Resistive Device Arrays'이(가) 저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ028",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 저항성 소자 배열에서 신경망을 훈련하는 알고리즘.",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "논문 제목 'Algorithm for Training Neural Networks on Resistive Device Arrays'이(가) 저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ029",
+      "question": "저항성 소자 배열에서 신경망을 훈련하는 알고리즘이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "논문 제목 'Algorithm for Training Neural Networks on Resistive Device Arrays'이(가) 저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ030",
+      "question": "저항성 소자 배열에서 신경망을 훈련하는 알고리즘 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-a3bae9155f7796cabfdc",
+      "answer_title": "Algorithm for Training Neural Networks on Resistive Device Arrays",
+      "answer_evidence": "논문 제목 'Algorithm for Training Neural Networks on Resistive Device Arrays'이(가) 저항성 소자 배열에서 신경망을 훈련하는 알고리즘을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ031",
+      "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "논문 제목 'frai-2021-699148 1..14'이(가) Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ032",
+      "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "논문 제목 'frai-2021-699148 1..14'이(가) Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ033",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련.",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "논문 제목 'frai-2021-699148 1..14'이(가) Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ034",
+      "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "논문 제목 'frai-2021-699148 1..14'이(가) Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ035",
+      "question": "Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6dc0918e3b10a30e615e",
+      "answer_title": "frai-2021-699148 1..14",
+      "answer_evidence": "논문 제목 'frai-2021-699148 1..14'이(가) Tiki-Taka를 이용한 잡음 많은 아날로그 하드웨어의 신경망 훈련을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ036",
+      "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "논문 제목 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm'이(가) IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ037",
+      "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "논문 제목 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm'이(가) IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ038",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화.",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "논문 제목 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm'이(가) IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ039",
+      "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "논문 제목 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm'이(가) IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ040",
+      "question": "IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-67fedc9676fdc5930880",
+      "answer_title": "Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm",
+      "answer_evidence": "논문 제목 'Device‐Algorithm Co‐Optimization for an On‐Chip Trainable Capacitor‐Based Synaptic Device with IGZO TFT and Retention‐Centric Tiki‐Taka Algorithm'이(가) IGZO TFT 커패시터 시냅스와 retention-centric Tiki-Taka의 공동 최적화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ041",
+      "question": "대규모 병렬 아날로그 온칩 학습 중 교란 완화을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "논문 제목 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator'이(가) 대규모 병렬 아날로그 온칩 학습 중 교란 완화을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ042",
+      "question": "대규모 병렬 아날로그 온칩 학습 중 교란 완화을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "논문 제목 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator'이(가) 대규모 병렬 아날로그 온칩 학습 중 교란 완화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ043",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 대규모 병렬 아날로그 온칩 학습 중 교란 완화.",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "논문 제목 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator'이(가) 대규모 병렬 아날로그 온칩 학습 중 교란 완화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ044",
+      "question": "대규모 병렬 아날로그 온칩 학습 중 교란 완화이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "논문 제목 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator'이(가) 대규모 병렬 아날로그 온칩 학습 중 교란 완화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ045",
+      "question": "대규모 병렬 아날로그 온칩 학습 중 교란 완화 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c14d29d5e3a70ecacb1d",
+      "answer_title": "Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator",
+      "answer_evidence": "논문 제목 'Disturbance‐Aware On‐Chip Training with Mitigation Schemes for Massively Parallel Computing in Analog Deep Learning Accelerator'이(가) 대규모 병렬 아날로그 온칩 학습 중 교란 완화을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ046",
+      "question": "국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "논문 제목 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks'이(가) 국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ047",
+      "question": "국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "논문 제목 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks'이(가) 국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ048",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로.",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "논문 제목 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks'이(가) 국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ049",
+      "question": "국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "논문 제목 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks'이(가) 국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ050",
+      "question": "국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-c50e9a1bf9d8a45d8e25",
+      "answer_title": "Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks",
+      "answer_evidence": "논문 제목 'Defect-Tolerant Memristor Crossbar Circuits for Local Learning Neural Networks'이(가) 국소 학습 신경망을 위한 결함 허용 멤리스터 크로스바 회로을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ051",
+      "question": "온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "논문 제목 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators'이(가) 온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ052",
+      "question": "온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "논문 제목 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators'이(가) 온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ053",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기.",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "논문 제목 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators'이(가) 온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ054",
+      "question": "온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "논문 제목 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators'이(가) 온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ055",
+      "question": "온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-d8959381c48699afb7dd",
+      "answer_title": "Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators",
+      "answer_evidence": "논문 제목 'Low-Rank Equilibrium Propagation: An Online Incremental Learning Architecture for Analog-Based Hardware Accelerators'이(가) 온라인 증분 학습을 위한 저랭크 평형 전파 아날로그 가속기을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ056",
+      "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "논문 제목 'Activity-difference training of deep neural networks using memristor crossbars'이(가) 멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ057",
+      "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "논문 제목 'Activity-difference training of deep neural networks using memristor crossbars'이(가) 멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ058",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 멤리스터 크로스바를 이용한 activity-difference 신경망 학습.",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "논문 제목 'Activity-difference training of deep neural networks using memristor crossbars'이(가) 멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ059",
+      "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "논문 제목 'Activity-difference training of deep neural networks using memristor crossbars'이(가) 멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ060",
+      "question": "멤리스터 크로스바를 이용한 activity-difference 신경망 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-04196c898fbcff72a7ae",
+      "answer_title": "Activity-difference training of deep neural networks using memristor crossbars",
+      "answer_evidence": "논문 제목 'Activity-difference training of deep neural networks using memristor crossbars'이(가) 멤리스터 크로스바를 이용한 activity-difference 신경망 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ061",
+      "question": "프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "논문 제목 'Machine learning without a processor: Emergent learning in a nonlinear analog network'이(가) 프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ062",
+      "question": "프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "논문 제목 'Machine learning without a processor: Emergent learning in a nonlinear analog network'이(가) 프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ063",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝.",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "논문 제목 'Machine learning without a processor: Emergent learning in a nonlinear analog network'이(가) 프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ064",
+      "question": "프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "논문 제목 'Machine learning without a processor: Emergent learning in a nonlinear analog network'이(가) 프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ065",
+      "question": "프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-430800e98327cbc608a5",
+      "answer_title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+      "answer_evidence": "논문 제목 'Machine learning without a processor: Emergent learning in a nonlinear analog network'이(가) 프로세서 없이 비선형 아날로그 네트워크에서 나타나는 머신러닝을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ066",
+      "question": "비선형 저항성 네트워크의 보편 근사 정리을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "논문 제목 'Universal approximation theorem for nonlinear resistive networks'이(가) 비선형 저항성 네트워크의 보편 근사 정리을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ067",
+      "question": "비선형 저항성 네트워크의 보편 근사 정리을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "논문 제목 'Universal approximation theorem for nonlinear resistive networks'이(가) 비선형 저항성 네트워크의 보편 근사 정리을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ068",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 비선형 저항성 네트워크의 보편 근사 정리.",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "논문 제목 'Universal approximation theorem for nonlinear resistive networks'이(가) 비선형 저항성 네트워크의 보편 근사 정리을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ069",
+      "question": "비선형 저항성 네트워크의 보편 근사 정리이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "논문 제목 'Universal approximation theorem for nonlinear resistive networks'이(가) 비선형 저항성 네트워크의 보편 근사 정리을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ070",
+      "question": "비선형 저항성 네트워크의 보편 근사 정리 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-7f77d846f81dc1e691cd",
+      "answer_title": "Universal approximation theorem for nonlinear resistive networks",
+      "answer_evidence": "논문 제목 'Universal approximation theorem for nonlinear resistive networks'이(가) 비선형 저항성 네트워크의 보편 근사 정리을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ071",
+      "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "논문 제목 'AWAD2025'이(가) 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ072",
+      "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "논문 제목 'AWAD2025'이(가) 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ073",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습.",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "논문 제목 'AWAD2025'이(가) 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ074",
+      "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "논문 제목 'AWAD2025'이(가) 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ075",
+      "question": "1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-b5ea3bf87dae48be5528",
+      "answer_title": "AWAD2025",
+      "answer_evidence": "논문 제목 'AWAD2025'이(가) 1.5비트 ADC와 IGZO TFT 업데이트 셀을 사용하는 에너지 효율적 온칩 학습을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ076",
+      "question": "금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "논문 제목 '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer'이(가) 금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ077",
+      "question": "금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "논문 제목 '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer'이(가) 금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ078",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법.",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "논문 제목 '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer'이(가) 금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ079",
+      "question": "금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "논문 제목 '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer'이(가) 금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ080",
+      "question": "금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-2b2fd97e643be32bebef",
+      "answer_title": "30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer",
+      "answer_evidence": "논문 제목 '30.7 A Phase Change Memory Cell with Metallic Surfactant Layer as a Resistance Drift Stabilizer'이(가) 금속 계면활성층으로 상변화 메모리 셀의 저항 드리프트를 안정화하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ081",
+      "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "논문 제목 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors'이(가) 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ082",
+      "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "논문 제목 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors'이(가) 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ083",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법.",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "논문 제목 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors'이(가) 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ084",
+      "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "논문 제목 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors'이(가) 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ085",
+      "question": "2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-6a27004aa18a5446870e",
+      "answer_title": "Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors",
+      "answer_evidence": "논문 제목 'Enabling static random-access memory cell scaling with monolithic 3D integration of 2D field-effect transistors'이(가) 2차원 FET의 단일체 3D 집적으로 SRAM 셀을 스케일링하는 방법을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ086",
+      "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "논문 제목 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors'이(가) 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ087",
+      "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "논문 제목 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors'이(가) 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ088",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적.",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "논문 제목 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors'이(가) 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ089",
+      "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "논문 제목 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors'이(가) 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ090",
+      "question": "상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-973c92891a895d842b51",
+      "answer_title": "Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors",
+      "answer_evidence": "논문 제목 'Monolithic three-dimensional integration of complementary two-dimensional field-effect transistors'이(가) 상보형 2차원 전계효과 트랜지스터의 단일체 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ091",
+      "question": "육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "논문 제목 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy'이(가) 육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ092",
+      "question": "육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "논문 제목 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy'이(가) 육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ093",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터.",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "논문 제목 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy'이(가) 육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ094",
+      "question": "육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "논문 제목 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy'이(가) 육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ095",
+      "question": "육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-108c4c39fc40365800d2",
+      "answer_title": "Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy",
+      "answer_evidence": "논문 제목 'Two-dimensional-materials-based transistors using hexagonal boron nitride dielectrics and metal gate electrodes with high cohesive energy'이(가) 육방정 질화붕소 유전체와 고응집에너지 금속 게이트를 사용하는 2차원 트랜지스터을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ096",
+      "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 다루는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "논문 제목 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias'이(가) 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 명시한다.",
+      "question_type": "direct_topic"
+    },
+    {
+      "question_id": "KQ097",
+      "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 연구하려면 가장 관련 있는 논문은 무엇인가?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "논문 제목 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias'이(가) 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ098",
+      "question": "다음 주제에 가장 가까운 논문을 고르시오: 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적.",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "논문 제목 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias'이(가) 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ099",
+      "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적이 핵심 기여인 논문은 무엇인가?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "논문 제목 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias'이(가) 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    },
+    {
+      "question_id": "KQ100",
+      "question": "고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적 문제를 이해하는 데 가장 적합한 논문은 무엇인가?",
+      "answer_paper_id": "PDF-f7f8678364e97bead725",
+      "answer_title": "Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias",
+      "answer_evidence": "논문 제목 'Monolithic and heterogeneous three-dimensional integration of two-dimensional materials with high-density vias'이(가) 고밀도 비아를 갖는 2차원 소재의 단일체·이종 3D 집적을 직접 명시한다.",
+      "question_type": "semantic_topic"
+    }
+  ]
+}

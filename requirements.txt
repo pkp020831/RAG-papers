@@ -3,3 +3,4 @@ certifi>=2025
 torch>=2.2
 transformers>=4.46,<5
 sentencepiece>=0.2
+sentence-transformers>=5,<6
