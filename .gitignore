@@ -1,4 +1,3 @@
-# Local paper corpus and generated search databases
 *.pdf
 paper_database*.json
 realtest/

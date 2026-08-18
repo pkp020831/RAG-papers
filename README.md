@@ -49,7 +49,7 @@ python -c "from pypdf import PdfReader; print('pypdf ready')"
 
 ## 로컬 한→영 번역 + BM25 검색기
 
-`search_server_ko_en.py`는 고정 용어 사전을 쓰지 않습니다. 한국어로 입력한 질의 전체를 로컬 Transformer 한→영 모델로 기계번역한 뒤, 번역 결과를 기존 BM25 인덱스에 검색합니다. 원본 `search_server.py`는 변경되지 않았습니다.
+`search_server_ko_en.py`는 고정 용어 사전을 쓰지 않습니다. 한국어 질의 전체에 대해 로컬 Transformer의 빔 서치로 최대 10개의 영어 번역 후보를 생성하고, 후보별 BM25 결과를 번역 상대 신뢰도 가중 RRF로 결합합니다. 원본 `search_server.py`는 변경되지 않았습니다.
 
 번역 모델은 한 번만 설치하면 됩니다. 기본 저장 위치는 프로젝트의 `models/opus-mt-ko-en/`이며, PDF 폴더나 JSON DB에는 저장되지 않습니다.
 
@@ -65,13 +65,25 @@ python3 search_server_ko_en.py --db "/secure/confidential-pdfs/paper_database.js
 http://127.0.0.1:8001
 ```
 
+`papers/`의 두 DB를 동시에 테스트하려면 서로 다른 포트를 사용합니다.
+
+```bash
+# 논문 단위 DB 한영 검색
+python3 search_server_ko_en.py --db papers/paper_database.json --port 8001
+
+# 청크 단위 DB 한영 검색
+python3 search_server_ko_en.py --db papers/paper_database_chunked.json --port 8003
+```
+
+각각 `http://127.0.0.1:8001`, `http://127.0.0.1:8003`에서 열립니다.
+
 첫 모델 설치 때만 공개 번역 모델을 내려받기 위한 네트워크가 필요합니다. 폐쇄망에서는 다른 보안 환경에서 미리 내려받은 모델 폴더를 설치합니다.
 
 ```bash
 python3 install_ko_en_model.py --from-dir "/secure/models/opus-mt-ko-en"
 ```
 
-서버 실행 중에는 PDF와 질의가 외부로 전송되지 않으며, 영어 질의는 번역 없이 그대로 BM25로 검색합니다.
+서버 실행 중에는 PDF와 질의가 외부로 전송되지 않으며, 영어 질의는 번역 없이 그대로 BM25로 검색합니다. 빔 후보는 같은 모델의 생성 확률을 기준으로 한 상대적 후보이므로, 전문용어 정확도는 번역 모델의 학습 범위에 좌우됩니다.
 
 ## 필요한 파일 구조
 
@@ -129,6 +141,18 @@ python3 build_paper_db.py \
 python3 search_server.py \
   --db "/secure/confidential-pdfs/paper_database.json"
 ```
+
+`--port`로 포트를 지정하면 서로 다른 JSON DB를 동시에 테스트할 수 있습니다.
+
+```bash
+# 논문 단위 DB
+python3 search_server.py --db papers/paper_database.json --port 8000
+
+# 청크 단위 DB
+python3 search_server.py --db papers/paper_database_chunked.json --port 8002
+```
+
+각 서버는 각각 `http://127.0.0.1:8000`, `http://127.0.0.1:8002`에서 열립니다.
 
 ## 청크 단위 DB 만들기
 

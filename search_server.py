@@ -210,17 +210,25 @@ class RequestHandler(BaseHTTPRequestHandler):
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run a local BM25 PDF search server.")
     parser.add_argument("--db", type=Path, help="JSON database to load (default: ./paper_database.json)")
+    parser.add_argument(
+        "--port",
+        type=int,
+        default=8000,
+        help="Local TCP port to listen on (default: 8000)",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+    if not 1 <= args.port <= 65535:
+        raise ValueError("Port must be between 1 and 65535")
     database_path = resolve_database_path(args.db)
     database = load_database(database_path)
-    server = ThreadingHTTPServer(("127.0.0.1", 8000), RequestHandler)
+    server = ThreadingHTTPServer(("127.0.0.1", args.port), RequestHandler)
     server.database = database  # type: ignore[attr-defined]
     server.search_engine = BM25PaperSearch(database["papers"])  # type: ignore[attr-defined]
-    print(f"Paper search running at http://127.0.0.1:8000\nDatabase: {database_path}")
+    print(f"Paper search running at http://127.0.0.1:{args.port}\nDatabase: {database_path}")
     try:
         server.serve_forever()
     except KeyboardInterrupt:

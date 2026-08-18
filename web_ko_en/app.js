@@ -10,7 +10,7 @@ const fieldNames = { title: "제목", keywords: "키워드", metadata: "메타�
 function renderResult(paper, query) {
   const card = template.content.cloneNode(true);
   card.querySelector(".document-id").textContent = paper.id;
-  card.querySelector(".score").textContent = query ? `BM25 ${paper.score.toFixed(2)}` : "컬렉션 문서";
+  card.querySelector(".score").textContent = query ? `RRF ${paper.score.toFixed(4)}` : "컬렉션 문서";
   card.querySelector("h2").textContent = paper.title;
   card.querySelector(".authors").textContent = paper.authors.join(" · ");
   card.querySelector(".venue").textContent = paper.venue || paper.document_status;
@@ -35,9 +35,10 @@ function showTranslation(data) {
     return;
   }
   if (data.translation_used) {
-    translationResult.textContent = `전체 질의 기계번역: “${data.query}” → “${data.translated_query}” (${data.translation_engine})`;
+    const variants = data.search_variants.map((variant) => `“${variant.query}”`).join(" · ");
+    translationResult.textContent = `빔 서치로 생성한 영어 번역 후보를 각각 BM25로 검색한 뒤, 번역 신뢰도 가중 순위 융합했습니다: ${variants}`;
   } else {
-    translationResult.textContent = `영어 질의는 번역하지 않고 그대로 BM25로 검색합니다. (${data.translation_engine})`;
+    translationResult.textContent = `영어 질의를 BM25로 검색했습니다. (${data.translation_engine})`;
   }
   translationResult.hidden = false;
 }

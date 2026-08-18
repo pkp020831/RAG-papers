@@ -1,7 +1,14 @@
 import unittest
 
 from search_server import BM25PaperSearch
-from search_server_ko_en import TransformerKoreanEnglishTranslator
+from search_server_ko_en import (
+    SearchVariant,
+    TransformerKoreanEnglishTranslator,
+    TranslationCandidate,
+    TranslationResult,
+    build_search_variants,
+    rrf_search,
+)
 
 
 PAPER = {
@@ -49,6 +56,42 @@ class KoreanEnglishSearchTests(unittest.TestCase):
         result = self.translator.translate("평형 전파")
         results = BM25PaperSearch([PAPER]).search(result.translated_query)
         self.assertEqual(results[0]["id"], "PDF-test")
+
+    def test_domain_candidates_are_separate_search_variants(self):
+        translation = TranslationResult(
+            "황화 반도체",
+            "precipitation semiconductor",
+            True,
+            "test",
+            (
+                TranslationCandidate("precipitation semiconductor", -0.1, 0.7),
+                TranslationCandidate("sulfide semiconductor", -1.0, 0.3),
+            ),
+        )
+
+        variants = build_search_variants(translation)
+
+        self.assertEqual(variants, [
+            SearchVariant("translation:1", "precipitation semiconductor", 0.7),
+            SearchVariant("translation:2", "sulfide semiconductor", 0.3),
+        ])
+
+    def test_rrf_fuses_rank_order_instead_of_bm25_scores(self):
+        variants = [SearchVariant("first", "equilibrium"), SearchVariant("second", "propagation")]
+
+        results = rrf_search(BM25PaperSearch([PAPER]), variants, limit=10)
+
+        self.assertEqual(results[0]["id"], "PDF-test")
+        self.assertEqual(results[0]["retrieved_by"], ["first", "second"])
+
+    def test_rrf_ignores_unindexable_korean_only_variant(self):
+        variants = [SearchVariant("original", "황화"), SearchVariant("domain:황화", "sulfide")]
+        sulfide_paper = {**PAPER, "text": "A sulfide device is measured.", "title": "Sulfide device"}
+
+        results = rrf_search(BM25PaperSearch([PAPER, sulfide_paper]), variants, limit=10)
+
+        self.assertEqual([result["id"] for result in results], ["PDF-test"])
+        self.assertEqual(results[0]["retrieved_by"], ["domain:황화"])
 
 
 if __name__ == "__main__":
